@@ -27,7 +27,7 @@ The machine learning model was developed to predict an individual's performance 
  Model_FINAL-full.ipynb and Model_FINAL-reduced :
  This contains Python script used to create the machine learning model and the evaluation of the machine learning model.
  
- PLS.r : This contains the Partial Least Squares Analysis which was done using R.
+ PLS.R : This contains the Partial Least Squares Analysis which was done using R.
  
  README.md : This file.
 
