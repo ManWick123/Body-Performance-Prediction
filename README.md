@@ -22,10 +22,12 @@ The machine learning model was developed to predict an individual's performance 
 
  bodyPerformance.csv : Body Performance dataset.
  
- 1.eda_1_FINAL.ipynb and 2.eda_2_FINAL.ipynb : A Jupyter Notebook file containing the Exploratory Data Analysis.
+ eda_1_FINAL.ipynb and eda_2_FINAL.ipynb : A Jupyter Notebook file containing the Exploratory Data Analysis.
  
- 3.Model_FINAL-full.ipynb and 4.Model_FINAL-reduced :
+ Model_FINAL-full.ipynb and Model_FINAL-reduced :
  This contains Python script used to create the machine learning model and the evaluation of the machine learning model.
+ 
+ PLS.r : This contains the Partial Least Squares Analysis which was done using R.
  
  README.md : This file.
 
